@@ -1,3 +1,3 @@
 # Fibonacci
 
-## sequência Fibonacci de forma simples pára estudos !
+## sequência Fibonacci de forma simples para estudos !
